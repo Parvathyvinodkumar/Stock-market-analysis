@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+
+venv/
+env/
+
+# VS Code
+
+.vscode/
+
+# Data files (optional)
+
+*.csv
+
+# System files
+
+.DS_Store
+Thumbs.db
+
