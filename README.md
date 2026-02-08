@@ -120,7 +120,7 @@ The project generates:
 
 ## 👤 Author
 
-Your Name
+Parvathy.V
 Computer Science Student | Python Developer | Data Analysis Enthusiast
 
 ---
